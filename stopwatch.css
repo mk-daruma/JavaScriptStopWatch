@@ -1,0 +1,35 @@
+/*数字出力*/
+#Time{
+  font-size: 50px;
+  margin-left: 20px;
+}
+
+
+/*ボタン*/
+.AllBtn{
+  display: flex;
+  gap:10px;
+  margin:15px 0px 0px 10px; 
+}
+
+#Start{
+  border-radius:10px;
+  background-color:#a9a9a9;
+  padding: 10px;
+}
+
+#Stop{
+  border-radius:10px;
+  background-color:#a9a9a9;
+  padding: 10px;
+}
+
+#Reset{
+  border-radius:10px;
+  background-color:#a9a9a9;
+  padding: 10px;
+}
+
+.Btn:hover{
+  opacity:0.5;
+}
